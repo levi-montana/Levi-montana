@@ -9,7 +9,7 @@
 ## 🛡️ About Me
 - 📍 Based in Toronto, Canada  
 - 📚 Currently pursuing: **CompTIA Security+**, **Network+**  
-- 🧠 Learning tools like: **Wireshark**, **Kali Linux**, **Burp Suite**, **Splunk**  
+- 🧠 Learning tools like: **Wireshark**, **Mint Linux**, **Burp Suite**, **Splunk**  
 - ⚙️ Familiar with: **SQL**, **Python basics**, **Linux**, **Cloud Security Fundamentals**  
 - 🔎 Interested in: SOC analysis, threat intelligence, ethical hacking, and blue team ops
 
